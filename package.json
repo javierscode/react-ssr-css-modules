@@ -1,0 +1,9 @@
+{
+  "name": "react-ssr-css-modules",
+  "private": true,
+  "workspaces": [
+    "components",
+    "next-app"
+  ],
+  "license": "MIT"
+}
